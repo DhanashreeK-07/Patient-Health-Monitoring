@@ -1,7 +1,0 @@
-flask
-pyspark
-kafka-python
-pymongo
-cassandra-driver
-pandas
-scikit-learn
