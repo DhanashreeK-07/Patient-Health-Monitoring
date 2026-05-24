@@ -1,0 +1,18 @@
+# Data Processing & Math
+pandas==2.2.2
+matplotlib==3.8.4
+
+# Streaming & Big Data
+kafka-python==2.0.2
+pyspark==3.5.1
+
+# Database & Web
+mysql-connector-python==8.3.0
+Flask==3.0.3
+
+# Configuration & Cloud
+python-dotenv==1.0.1
+
+# Orchestration (Only needed on the Airflow machine)
+apache-airflow==2.9.1
+apache-airflow-providers-databricks==6.2.0
